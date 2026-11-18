@@ -1,0 +1,8 @@
+strict graph G {
+A -- B;
+A -- C;
+B -- C;
+C -- D;
+C -- E;
+D -- E;
+}
